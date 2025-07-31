@@ -1,0 +1,50 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC /ITAPC1/ZLM_DEMO_CLASS========CCAU.abap",
+   "fingerprint":"IeYnTSvBbm0njoflMffC/MPZjyCMLamy0ByieSgJEIEzFozZOD9ATR+7J7RLXZxvEPyjTgdzAWu3xpW9YONaSQ=="
+  },
+  {
+   "name":"CINC /ITAPC1/ZLM_DEMO_CLASS========CCDEF.abap",
+   "fingerprint":"Gv4O7MxqGot8ai6dkPsNX8NhFwyJuSd7ZjwlfzZyGUf/wzjYtWw/Nm4q59TP5wOjsd93JmadbsD0+EQrZrQYLQ=="
+  },
+  {
+   "name":"CINC /ITAPC1/ZLM_DEMO_CLASS========CCIMP.abap",
+   "fingerprint":"fpS0hep58zzGuZ4WRUmF+i2RZYARxYB7qz4aQGJD684II//c+qLm620CC45wZm4gsgfUVTQFAIt0ZMtoxmcceQ=="
+  },
+  {
+   "name":"CINC /ITAPC1/ZLM_DEMO_CLASS========CCMAC.abap",
+   "fingerprint":"RScJ35MMBsODZwYRL+hJZpiPwrwDRNrlCqPlxeAYrJHxM8f49LfsbQx26ttb+uxYj7zrKSDiiS1gHVBkJZ5F/A=="
+  },
+  {
+   "name":"CLAS /ITAPC1/ZLM_DEMO_CLASS.asx.json",
+   "fingerprint":"Qfa7v1PSk8jIxT0wKoMjWtws2G7BNWJ1ZKQcWh2LhYNBpi4dBU9ma7SRNDbrN5Y8aA9RTfm2r4+6V7LbHF1+zQ=="
+  },
+  {
+   "name":"CLSD /ITAPC1/ZLM_DEMO_CLASS.abap",
+   "fingerprint":"249D/60Yb9vuCATLrTIRtZfN1P8lawI2H4G2nsX1IV3ZfkDYYri3uu5q4uUehI68wKdffbYPmYcyWP5kzA9lXg=="
+  },
+  {
+   "name":"CPRI /ITAPC1/ZLM_DEMO_CLASS.abap",
+   "fingerprint":"9fLdGOkby/x2mFSBixmzFDedZeUaSvwcB8JyGwpTRxTD5kdv0a0WntCb12VhhhVpHsvEQDhWnjp0qb1JaasZXQ=="
+  },
+  {
+   "name":"CPRO /ITAPC1/ZLM_DEMO_CLASS.abap",
+   "fingerprint":"FllUmbxxi3YpN9zzcakUpkEGwUcoHybbgOaZmmiJvFipO2Zf4l5GasrhgU31ius6r1Q1GmyfJKnoC6ine425+w=="
+  },
+  {
+   "name":"CPUB /ITAPC1/ZLM_DEMO_CLASS.abap",
+   "fingerprint":"ujUlYbskYMDWkc7rDWPAFJ0LC7Om69JnIvORUzOkj1IESXYOCKeHyGMJSiFKQwICPANENyFXJlyLGVNa6gOOYA=="
+  },
+  {
+   "name":"METH IF_OO_ADT_CLASSRUN~MAIN.abap",
+   "fingerprint":"R04uunBWFpGjKKUDQs2QW/oeoklC81Fb6Aw9VQlkymu03UtxNBQXIvpWukEobo3zGMCuWf0ZNnv3xwtmLhZeCw=="
+  },
+  {
+   "name":"REPS /ITAPC1/ZLM_DEMO_CLASS========CT.abap",
+   "fingerprint":"A6UORzBKyXnLvFYRXGvTaXImrCSxQqHXOk5UugNgqrj5px/iahb159oY1VJV6sM5Wy2GPts1EJf5btNG5Uy62g=="
+  }
+ ],
+ "fingerprintAll":"vgz8JEovSWgDp3z6+ZUVGrGryWyG/i3X4Hcv1Zjs2EEELaGR/Z2MDGgVfifPqPXs/Rrx3ZKavGD3FnBkGZQLdw=="
+}
