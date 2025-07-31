@@ -1,0 +1,60 @@
+[
+ {
+  "table":"ACMDCLSRC",
+  "data":
+  [
+   {
+    "DCLNAME":"/ITAPC1/C_3218_CT2",
+    "AS4LOCAL":"A",
+    "AS4USER":"SAP_CUSTOMER",
+    "AS4DATE":"2025-07-31",
+    "AS4TIME":"09:11:53",
+    "SOURCE":"@EndUserText.label: '/ITAPC1/C_3218_CT2'\r\n@MappingRole: true\r\ndefine role /ITAPC1/C_3218_CT2 {\r\n  grant select on /ITAPC1/C_3218_CT2\r\n  where INHERITING CONDITIONS FROM ENTITY /ITAPC1/R_3218_CT2 REPLACING { ROOT WITH _BaseEntity };\r\n}",
+    "PARENTNAME":"",
+    "ABAP_LANGUAGE_VERSION":"5"
+   }
+  ]
+ },
+ {
+  "table":"ACMDCLSRCT",
+  "data":
+  [
+   {
+    "DCLNAME":"/ITAPC1/C_3218_CT2",
+    "DCLLANGUAGE":"E",
+    "AS4LOCAL":"A",
+    "DDTEXT":"Access Control for /ITAPC1/C_3218_CT2"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"DCLS",
+    "OBJ_NAME":"/ITAPC1/C_3218_CT2",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SAP_CUSTOMER",
+    "SRCDEP":"",
+    "DEVCLASS":"/ITAPC1/BLI_3218_CTMS2_DEV",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"/ITAPC1/BLI_3218_CTMS2",
+    "CRELEASE":"100",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2025-07-31",
+    "CHECK_DATE":"2025-07-31",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

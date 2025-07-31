@@ -1,0 +1,46 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC /ITAPC1/BP_R_3218_CT2=========CCAU.abap",
+   "fingerprint":"BWOcPXR+Wvbi2rdWAJn4T7gMcMfDSfB4S/ZrJOJvbY8ovL+CSzGz5+eweWUwF+OuTzQGmMqmuAI5ahvCz2UzaA=="
+  },
+  {
+   "name":"CINC /ITAPC1/BP_R_3218_CT2=========CCDEF.abap",
+   "fingerprint":"vEds7o3krn/f419XgOFg4iboZfC8n+z8gEnSUm+0xawV9oCDjr1H8Ijq7wexaUX/QU5NhzPOwqSU4X3ZfaK0Ag=="
+  },
+  {
+   "name":"CINC /ITAPC1/BP_R_3218_CT2=========CCIMP.abap",
+   "fingerprint":"hKRPp1G7YY+9yKR5DKMTZhs+GK8QPi3XQZiPlGLe1DXfdMBJDb3pd0xwVlt4hsR6q1nPwm86yT+BkyRzjyWCWA=="
+  },
+  {
+   "name":"CINC /ITAPC1/BP_R_3218_CT2=========CCMAC.abap",
+   "fingerprint":"C1v3ENCpzttT4y7GOEvWrBnfBXbJK2toMGyk4lqhoyHGsaiCalLWkWLUERy/+CU5c+d+1PS/rNi7HvQIiDxMGQ=="
+  },
+  {
+   "name":"CLAS /ITAPC1/BP_R_3218_CT2.asx.json",
+   "fingerprint":"9m+mXmrUPeN8ruaKiM3DNi0+1SUQ12Nebj36NkOMzyRTkhxndx9/5PgMZZG//F9Sa2OIikcAGtB4YKVy0kjA4Q=="
+  },
+  {
+   "name":"CLSD /ITAPC1/BP_R_3218_CT2.abap",
+   "fingerprint":"nNwsvOeOpeJ61nzM0xruNF31CZcKQ8urioAWuMCKyY/WkKaN608eBukxXtZASY65SCcAFjVYJXiOEfxWjEmw8g=="
+  },
+  {
+   "name":"CPRI /ITAPC1/BP_R_3218_CT2.abap",
+   "fingerprint":"BKARe1/fbXR/pdDyXtun8vPiYxfvQugynnokLwXzC1fWKeOAJAf+P7dm1uM3m04L2VxEz/5xDuUAKJ/s23laMw=="
+  },
+  {
+   "name":"CPRO /ITAPC1/BP_R_3218_CT2.abap",
+   "fingerprint":"ATM66zjXFpTKlBcqmfGJMmkTvTe3HDxuJ42xObBXV/HKDOvROo2yfaPNUirqG/S9UAnt7VJEARj37NJKrJOHjQ=="
+  },
+  {
+   "name":"CPUB /ITAPC1/BP_R_3218_CT2.abap",
+   "fingerprint":"g81tHk6PFrvA6x7z3ubvw9Z7juWTN4E9hFqm7y6uWKBCqK47PKuXCwNamxxIHO6s7aup77hmO2lCPGrhN1BBmQ=="
+  },
+  {
+   "name":"REPS /ITAPC1/BP_R_3218_CT2=========CT.abap",
+   "fingerprint":"bRycVbQc2eBo/qeLdoQoBvGlIIDLsL2Z9QIRmVtMdkt4ckvJeIRDWNWMV4bQES7i+7wP4U67A8YLBpcn8yVBSw=="
+  }
+ ],
+ "fingerprintAll":"ttcQUxo3MkLlW6uNP8TdlpKANUBmASjcOx/PImIUwO2W3VXdcvFwJKQpY5g+Nu3N9WySdvhsBLEJVprt91mm2g=="
+}
