@@ -1,0 +1,14 @@
+{
+  "name": "_itapc1_bli_3218_ctms2",
+  "version": "1.0.0",
+  "description": "/ITAPC1/BLI_3218_CTMS2",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/2AD9BAAD21341FE09BBDA3F0B547A7B3_0"
+  }
+}
